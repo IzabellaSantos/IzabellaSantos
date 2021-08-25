@@ -1,8 +1,8 @@
 ## Oie, eu sou a Izabella Júlia dos Santos!
  <div>
   <a href="https://github.com/IzabellaSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzabellaSantos&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaSantos&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzabellaSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaSantos&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  
   
