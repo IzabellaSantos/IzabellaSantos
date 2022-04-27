@@ -27,8 +27,8 @@
   ##
  
 <div> 
-  <p>A internet facilitou muito todas as áreas de trabalho, incluindo a gestão de empresas. Por este motivo, trabalho desde março de 2021 com o desenvolvimento web de ERP's, tanto na parte Back-end quanto na Front-end. Ainda sou uma dev junior, porém sempre estou me especializando e, em breve, pretendo crescer muito mais em minha carreira.</p>
-  <p>Sou formada em informática pelo CEFET-MG, no curso integrado com o ensino médio. Trabalho com diversas linguagens e ferramentas, tais como: PHP, JavaScript, MySQL, entre outros. Possuo um inglês fluente eu sou super maleável com o tipo de ambiente, acredito que trabalhar comigo seja fácil e divertido.</p>
+  <p>A internet facilitou muito todas as áreas de trabalho, incluindo a gestão de empresas. Por este motivo, trabalhei desde março de 2021 até o inicio de 2022 com o desenvolvimento web de ERP's, tanto na parte Back-end quanto na Front-end. Entretanto, desde fevereiro de 2022 venho adquirindo experiência como desenvolvedora IOS, crescendo em outras áreas de conhecimento.</p>
+  <p>Sou formada em informática pelo CEFET-MG, no curso integrado com o ensino médio. Trabalhei com diversas linguagens e ferramentas, tais como: Swift, PHP, JavaScript, MySQL, entre outros. Possuo um inglês fluente eu sou super maleável com o tipo de ambiente, acredito que trabalhar comigo seja fácil e divertido.</p>
   <br>
   <a href="https://www.instagram.com/bellantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:izabellajuliasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
